@@ -1,10 +1,8 @@
 # 🧩 Görev Aracısı (Task Agent)
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/T8WSHXD/task-agent-banner.png" alt="Task Aracısı Banner" width="100%" />
+  <img src="[https://i.ibb.co/T8WSHXD/task-agent-banner.png](https://www.infoworld.com/wp-content/uploads/2025/05/3989248-0-01976900-1747657362-shutterstock_2471042165.jpg?quality=50&strip=all&w=1024)" alt="Task Aracısı Banner" width="100%" />
 </p>
-
-<h1 align="center">🧩 Görev Aracısı (Task Agent)</h1>
 <p align="center">
   AI-powered task management agent to organize, track, and automate tasks efficiently.
 </p>
